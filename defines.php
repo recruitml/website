@@ -33,7 +33,7 @@ if (ENVIRONMENT == 'DEV')
 // LIVE settings
 else if (ENVIRONMENT == 'LIVE')
 {
-	define('MDP_MAIL_SMTP', 'localhost');
+	//define('MDP_MAIL_SMTP', 'localhost');
 	define('MDP_EMAIL_TO', 'patrick@recruitml.com');
 			
 	define('MDP_SITE_PATH', 'http://recruitml.com');

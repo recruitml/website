@@ -68,23 +68,23 @@ function sendMail($to, $subject, $message)
 	/*
 	$mail->SMTPDebug  = 2;
 	*/	
-	$to = "greg@stevens.pro";
+	//$to = "greg@stevens.pro";
 	
 	$mail->CharSet = 'UTF-8';	
 	$mail->IsSMTP();
-	$mail->Host = MDP_MAIL_SMTP;
+	//$mail->Host = MDP_MAIL_SMTP;
 	
 	
 	
 	$mail->IsHTML(true);
 	
 	
-//$mail->SMTPAuth   = true;                  // enable SMTP authentication
-//$mail->SMTPSecure = "tls";                 // sets the prefix to the servier
-//$mail->Host       = "smtp.gmail.com";      // sets GMAIL as the SMTP server
-//$mail->Port       = 587;                   // set the SMTP port for the GMAIL server
-//$mail->Username   = "patrick.t.reilly@gmail.com";  // GMAIL username
-//$mail->Password   = "gloqgbvgkwjkcgyn";            // GMAIL password	
+$mail->SMTPAuth   = true;                  // enable SMTP authentication
+$mail->SMTPSecure = "tls";                 // sets the prefix to the servier
+$mail->Host       = "smtp.gmail.com";      // sets GMAIL as the SMTP server
+$mail->Port       = 587;                   // set the SMTP port for the GMAIL server
+$mail->Username   = "patrick.t.reilly@gmail.com";  // GMAIL username
+$mail->Password   = "gloqgbvgkwjkcgyn";            // GMAIL password	
 	
 	
 	
