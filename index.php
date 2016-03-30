@@ -7,7 +7,7 @@
 <body class="home">
 	<header>
 		<?php include("includes/02-header.php"); ?>
-		<p>Imagine you could recruit a top performer every time, for up to 90% less than your current cost to recruit.</p>
+		<p>Imagine you could recruit a top performer every time, for up to 90% less than your current cost.</p>
 	</header>
 	<main>
 		<div class="who-is">
@@ -61,10 +61,10 @@
 				</div>
 				<ol>
 					<li>Start with <span>hundreds of candidates</span></li>
-					<li>Algorithmic screen <span>removes 30%</span> based on client specific requirements (eg. Location).</li>
-					<li>Video screen <span>removes 15%</span> based on client specific requirements (eg. Communication skills, salary requirements, etc)</li>
-					<li>Skill demonstration test – <span>removes 45%</span> and ranks remaining 10%</li>
-					<li>Video interview ranks the <span>final 10%</span></li>
+					<li>Algorithmic screen based on client specific requirements (eg. Location).</li>
+					<li>Video screen based on client specific requirements (eg. Communication skills, salary requirements, etc)</li>
+					<li>Skill demonstration test</li>
+					<li>Interview</span></li>
 					<li>Submit <span>3-5 to candidates for employer interview</span>.  All candidates have demonstrated they can do the job and fit the company culture</li>
 				</ol>
 			</div>

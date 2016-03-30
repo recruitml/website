@@ -67,8 +67,9 @@ function sendMail($to, $subject, $message)
 	/* DEBUG */
 	/*
 	$mail->SMTPDebug  = 2;
-	$to = "greg@mediadog.ca";
 	*/	
+	$to = "greg@stevens.pro";
+	
 	$mail->CharSet = 'UTF-8';	
 	$mail->IsSMTP();
 	$mail->Host = MDP_MAIL_SMTP;
@@ -88,7 +89,7 @@ function sendMail($to, $subject, $message)
 	
 	
 	
-	$mail->SetFrom(MDP_EMAIL_FROM, 'RecruitML');
+	$mail->SetFrom("noreply@recruitml.com", 'RecruitML');
 	$mail->AddAddress($to);
 	$mail->Subject = $subject;
 	$mail->Body = $message;
