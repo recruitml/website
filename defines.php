@@ -39,8 +39,13 @@ else if (ENVIRONMENT == 'LIVE')
 	define('MDP_SITE_PATH', 'http://recruitml.com');
 	//define('MDP_FILE_PATH', '/srv/www/recruitml/www');
 	
-	define('CAPTCHA_SITE_KEY', '6LeYlBsTAAAAAL2ytEaNbGiT3a36KDY0vBGVx65s');
-	define('CAPTCHA_SECRET_KEY', '6LeYlBsTAAAAAGSacifmT2KeJ1wZCn2oSWzwreMJ');		
+	// recruitml-patrickreilly.rhcloud.com/
+	define('CAPTCHA_SITE_KEY', '6LeWKxwTAAAAAMS_tGAgNJDeM1U-K_tzrqFXM1FP');
+	define('CAPTCHA_SECRET_KEY', '6LeWKxwTAAAAAMQvTVGLunneksKQty4QOq1o22O9');
+	
+	// recruitml.com
+	//define('CAPTCHA_SITE_KEY', '6LeYlBsTAAAAAL2ytEaNbGiT3a36KDY0vBGVx65s');
+	//define('CAPTCHA_SECRET_KEY', '6LeYlBsTAAAAAGSacifmT2KeJ1wZCn2oSWzwreMJ');		
 }
 
 
