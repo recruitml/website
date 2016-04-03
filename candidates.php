@@ -10,7 +10,7 @@
 		<blockquote>
 			<p>
 			“Finally I was able to demonstrate what I could do instead of just being a job title on a resume”<br/>
-   			<span>-  Robert Conrad, Business Analyst</span>
+   			<span>-  Robert Tanaka, Business Analyst</span>
    			</p>
 		</blockquote>
 	</header>
@@ -39,7 +39,7 @@
 				</div>
 				<div class="benefit-block">
 					<img src="/images/icon-video.png" alt="Video screen">
-					<h3>6. Second Video screen</h3>
+					<h3>6. Interview with RecruitML team</h3>
 				</div>
 				<div class="clear"></div>
 				<div class="last-center">

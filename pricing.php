@@ -7,16 +7,32 @@
 <body class="pricing">
 	<header>
 		<?php include("includes/02-header.php"); ?>
-		<blockquote>
-			<p>
-			90% cheaper than traditional recruitment firms - 50% cheaper than your in house team - 12-month guarantee!
+		<blockquote> 
+			<p>“I’ve always felt that traditional recruiting companies cost too much. RecruitML has been a great partner with reasonable fees and great people.”<br>
+				<span>- Javier Garcia, HR Manager</span>
    			</p>
-		</blockquote>
+		<</blockquote> 
 	</header>
 	<main>
 		<div class="content-block">
-			<p>“I’ve always felt that traditional recruiting companies cost too much and didn’t provide much value.  RecruitML is the exact opposite, the fees are cheaper than our HR team can do it for and the people they’ve found for us are incredible.”<br>
-			<span>- Jennifer Walton, Full Stack Developer and Team Lead</span></p>
+			<p><br><br>RecruitML will save you money compared to what you are currently doing, we guarantee it.
+			<span></span></p><br>
+		</div>
+		<div class="table-container">
+			<table>
+				<tr>
+					<td>Cost – Permanent Placement</td>
+					<td>2.4% <span>of first year salary</span></td>
+				</tr>
+				<tr>
+					<td>Cost – Temporary</td>
+					<td>4% <span>of hourly rate + (if applicable) Burden + Payroll</span></td>
+				</tr>
+				<tr>
+					<td>Guarantee</td>
+					<td>12 Months</td>
+				</tr>
+			</table>
 		</div>
 		<div class="benefits-containter">
 			<div class="benefits">
@@ -40,22 +56,7 @@
 				<div class="clear"></div>
 			</div>
 		</div>
-		<div class="table-container">
-			<table>
-				<tr>
-					<td>Cost – Permanent Placement</td>
-					<td>2.4% <span>of first year salary</span></td>
-				</tr>
-				<tr>
-					<td>Cost – Temporary</td>
-					<td>4% <span>of hourly rate + (if applicable) Burden + Payroll</span></td>
-				</tr>
-				<tr>
-					<td>Guarantee</td>
-					<td>Up to 12 Months<span>We pay severance and source replacement</span></td>
-				</tr>
-			</table>
-		</div>
+
 		
 		<div class="cta">
 			<h4>Get in touch</h4>
