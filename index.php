@@ -74,6 +74,4 @@
 			<a href="/employers.php" class="button">Find Out More</a>
 		</div>
 	</main>
-
-
 <?php include("includes/03-footer.php"); ?>
