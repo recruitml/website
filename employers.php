@@ -27,7 +27,7 @@
 					<th>Traditional Recruiters</th>
 				</tr>
 				<tr>
-					<td>Cost per Hire</td>
+					<td>Cost Per Hire</td>
 					<td>2.4% of Salary </td>
 					<td>$5,000 to $8,000</td>
 					<td>18% to 32% of Salary</td>
