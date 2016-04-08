@@ -26,7 +26,11 @@
 				</tr>
 				<tr>
 					<td>Cost – Temporary</td>
-					<td>4% <span>of hourly rate + (if applicable) Burden + Payroll</span></td>
+					<td>5.4% <span>of hourly rate</span></td>
+				</tr>
+				<tr>
+					<td>Payroll Only</td>
+					<td>2.8%</td>
 				</tr>
 				<tr>
 					<td>Guarantee</td>
